@@ -1,6 +1,6 @@
 # A Node.js NewYorkCoin Client!
 
-![NewYoukCoin](https://raw.githubusercontent.com/NewYorkCoinNYC/Node-NewYorkCoin/master/node-newyorkcoin.png)
+![NewYorkCoin](https://raw.githubusercontent.com/NewYorkCoinNYC/Node-NewYorkCoin/node-newyorkcoin.png)
 
 node-newyorkcoin is a NachoCoin client for Node.js. It is a fork of the excellent Kapitalize Bitcoin Client (now removed from GitHub) intended for use with NachoCoin. The purpose of this repository is:
 

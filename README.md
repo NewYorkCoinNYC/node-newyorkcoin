@@ -2,12 +2,12 @@
 
 ![NewYorkCoin](https://raw.githubusercontent.com/NewYorkCoinNYC/Node-NewYorkCoin/blob/main/node-newyorkcoin.png)
 
-node-newyorkcoin is a NachoCoin client for Node.js. It is a fork of the excellent Kapitalize Bitcoin Client (now removed from GitHub) intended for use with NachoCoin. The purpose of this repository is:
+node-newyorkcoin is a NewYorkCoin client for Node.js. It is a fork of the excellent Kapitalize Bitcoin Client (now removed from GitHub) intended for use with NewYorkCoin. The purpose of this repository is:
 
-* Provide a one-stop resource for the Node.js developer to get started with NachoCoin integration.
-* Prevent would-be NachoCoin web developers worrying whether a Bitcoin client will work out of the box.
-* Promote Node.js development of NachoCoin web apps.
-* Identify and address any incompatibilities with the NachoCoin and Bitcoin APIs that exist now and/or in the future.
+* Provide a one-stop resource for the Node.js developer to get started with NewYorkCoin integration.
+* Prevent would-be NewYorkCoin web developers worrying whether a Bitcoin client will work out of the box.
+* Promote Node.js development of NewYorkCoin web apps.
+* Identify and address any incompatibilities with the NewYorkCoin and Bitcoin APIs that exist now and/or in the future.
 
 ## Dependencies
 

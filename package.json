@@ -1,0 +1,13 @@
+{
+    "name": "node-newyorkcoincoin",
+    "version": "0.3.9",
+    "description": "newyorkcoincoin client",
+    "keywords": ["newyorkcoincoin"],
+    "repository": "git://github.com/NewYorkCoinNYC/Node-NewYorkCoin.git",
+    "author": "Clark Van Oyen <clark@countable.ca>",
+    "main": "lib/newyorkcoin.js",
+    "engines": { "node": ">= 0.4.0" },
+    "devDependencies": {
+        "nodeunit": "*"
+    }
+}

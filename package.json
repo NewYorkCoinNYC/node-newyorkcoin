@@ -10,4 +10,9 @@
     "devDependencies": {
         "nodeunit": "*"
     }
+},
+
+"publishConfig": {
+    "registry": "https://npm.pkg.github.com/@cryptolover705"
+  }
 }

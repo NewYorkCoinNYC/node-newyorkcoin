@@ -14,7 +14,7 @@
     "type": "git",
     "url": "git+https://github.com/NewYorkCoinNYC/Node-NewYorkCoin.git"
   },
-  .........................
+
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@cryptolover705"
   }

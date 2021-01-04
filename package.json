@@ -1,5 +1,5 @@
 {
-  "name": "node-newyorkcoin",
+  "name": "@newyorkcoinnyc/node-newyorkcoin",
   "version": "0.3.9",
   "description": "newyorkcoin client",
   "main": "lib/newyorkcoin.js",
@@ -15,9 +15,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CryptoLover705/node-newyorkcoin.git"
+    "url": "git+https://github.com/NewYorkCoinNYC/node-newyorkcoin.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@cryptolover705"
+    "registry": "https://npm.pkg.github.com/"
   }
 }

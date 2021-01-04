@@ -4,6 +4,7 @@
   "description": "newyorkcoincoin client",
   "main": "lib/newyorkcoin.js",
   "types": "lib/newyorkcoin.js",
+  "engines": { "node": ">= 0.4.0" },
   "scripts": {
     "build": "npm run build",
     "deploy": "npm publish"
